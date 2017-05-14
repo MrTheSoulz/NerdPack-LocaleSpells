@@ -1775,6 +1775,7 @@ gbl.Class[11] = {
   ["Blessing of An'she"]              = 202739,
   ["Displacer Beast"]                 = 102280,
   ["Rejuvenation"]                    = 231040,
+  ["Rejuvenation (Germination)"]      = 155777,
   ["Blood Scent"]                     = 202022,
   ["The Cheetah"]                     = 131151,
   ["Thick Hide"]                      = 16931,
